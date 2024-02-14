@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: blue;
+}
+
+.box {
+    width: 150px; 
+    height: 150px;
+    margin: 10px;
+    background-color: darkred;
+}
+
+p {
+    text-align: left; 
+    color: antiquewhite;
+    background-color: brown;
+    width: 50;
+}
+
+div {
+    margin: 0;
+    text-align: left; 
+    color: antiquewhite;
+    background-color: brown;
+    display: inline-block; 
+    width: 45%; 
+}
